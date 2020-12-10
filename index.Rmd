@@ -1,0 +1,11 @@
+---
+title: "Home"
+output: html_document
+---
+
+
+Name 		: 	Dev R Sadaula
+Address	:	1132 Mount Royal Dr. Kalamazoo MI USA, 49009
+Phone		:	+12693662266
+Email		:	drsadaula@gmail.com  devraj.sadaula@wmich.edu
+LinkedIn 	:  	https://www.linkedin.com/in/dev-r-sadaula-38980173/

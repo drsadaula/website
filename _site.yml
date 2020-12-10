@@ -1,0 +1,21 @@
+name: "Rajesh Sigdel"
+navbar:
+  title: "MyLabJournal"
+  left:
+    - text: "Home"
+      icon: fas fa-home
+      href: index.html
+    - text: "Workshops and Conferences"
+      icon: fa-book
+      href: Articles.html
+    - text: "Educations and Awards"
+      icon: fa-user-graduate
+      href: education.html
+    - text: "About me"
+      icon: fa-user
+      href: About.html
+output_dir: "docs"
+output:
+  html_document:
+    css: style_web.css
+    theme: cosmo
