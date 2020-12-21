@@ -4,8 +4,24 @@ output: html_document
 ---
 
 
-Name 		: 	Dev R Sadaula
-Address	:	1132 Mount Royal Dr. Kalamazoo MI USA, 49009
-Phone		:	+12693662266
-Email		:	drsadaula@gmail.com  devraj.sadaula@wmich.edu
-LinkedIn 	:  	https://www.linkedin.com/in/dev-r-sadaula-38980173/
+<div class="row" style="padding-top: 30px;">
+
+<div class="col-sm-6">
+
+![](images/lab.jpg)
+
+
+
+Photo by National Cancer Institute on Unsplash
+
+
+</div>
+
+
+
+My name is Dev Raj Sadaula. I am a Ph.D. candidate in Physics and working on upgrading the famous photoionization code named XSTAR to include time part in the calculations under Dr. Manuel Bautista in the Department of Physics at Western Michigan University. Then we will parallelize the code to make it more efficient
+in terms of time. 
+
+Finally, we will make it publicly available. Once we finish it, we will
+apply this code in the Active Galactic Nuclei Outflow, where the absorbing gas called
+“Warm Absorber” is expected to be at out of equilibrium.
