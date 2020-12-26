@@ -2,25 +2,39 @@
 output: html_document
 ---
 
-Education
-
-level	Name of Institution	Graduation Date
-School	Salyankot Higher Secondary School	April, 2002
-Intermediate in Science	Tri-Chandra Campus, TU	Dec, 2005
-Bachelor’s in science	Tri-Chandra Campus, TU	March, 2010
-Master of Science	Central Department of Physics, TU	November, 2014
-PhD	Western Michigan University	Started in Fall 2015
+\
 
 
+### Education
 
-Computer Programming Skills
+---
 
-•	I am proficient in Programming in Fortran and Python to solve advance problems in Physics. I am now upgrading the famous photoionization code named XSTAR to include time part in the calculations. Then we will parallelize the code to make it more efficient in terms of time. Finally, we will make it publicly available. Once we finish it, we will apply this code in the Active Galactic Nuclei Outflow, where the absorbing gas called “Warm Absorber” is expected to be at out of equilibrium.
+* PhD	in Physics - Western Michigan University: Expected 2023
 
-•	I have taken a three-credit course in Data Base Management System in Computer Science Department, Western Michigan University.
 
-•	I have good knowledge of query Language MySQL.
 
-•	I have good knowledge of linear algebra packages, LAPACK, SCALAPACK and ODEPACK.
+* Master of Science in Physics - Central Department of Physics, Tribhuvan University: November, 2014
+
+
+
+* Bachelor of Science	in Physics  - Tri-Chandra Campus, Tribhuvan University: 	March, 2010
+
+
+\
+
+
+
+### Computer Programming Skills
+
+---
+
+* I am proficient in Programming in Fortran and Python to solve advance problems in Physics. I am now upgrading the famous photoionization code named XSTAR to include time part in the calculations. Then we will parallelize the code to make it more efficient in terms of time. Finally, we will make it publicly available. Once we finish it, we will apply this code in the Active Galactic Nuclei Outflow, where the absorbing gas called “Warm Absorber” is expected to be at out of equilibrium.
+
+
+* I have taken a three-credit course in Data Base Management System in Computer Science Department, Western Michigan University.
+
+* I have good knowledge of query Language MySQL.
+
+* I have good knowledge of linear algebra packages, LAPACK, SCALAPACK and ODEPACK.
 
 

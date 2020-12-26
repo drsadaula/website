@@ -1,6 +1,12 @@
 ---
-title: "Home"
 output: html_document
+---
+
+\
+
+
+### Home
+
 ---
 
 
@@ -8,11 +14,8 @@ output: html_document
 
 <div class="col-sm-6">
 
-![](images/lab.jpg)
+![](images/dev.PNG)
 
-
-
-Photo by National Cancer Institute on Unsplash
 
 
 </div>
