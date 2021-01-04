@@ -22,6 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
@@ -32,7 +34,7 @@
   div.column{display: inline-block; vertical-align: top; width: 50%;}
   div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   ul.task-list{list-style: none;}
-      </style>
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -338,9 +340,9 @@ $(document).ready(function () {
 <p><img src="Images/dev.PNG" /></p>
 </div>
 <p>My name is Dev Raj Sadaula. I am a Ph.D. candidate in the department of Physics of Western Michigan University.</p>
-<p>I am working on upgrading the famous photoionization code named XSTAR to include time part in the calculations under the supervision of Prof. Manuel Bautista. Then we will parallelize the code to make it more efficient in terms of time.</p>
-<p>Finally, we will make it publicly available. Once we finish it, we will apply this code in the Active Galactic Nuclei Outflow, where the absorbing gas called “Warm Absorber” is expected to be at out of equilibrium.</p>
+<p>I am working on upgrading the famous photoionization code named XSTAR to include time part in the calculations under the supervision of Prof. Manuel Bautista. Then we will parallelize the code to make it more efficient in terms of time. Finally, we will make it publicly available. Once we finish it, we will apply this code in the Active Galactic Nuclei Outflow, where the absorbing gas called “Warm Absorber” is expected to be at out of equilibrium.</p>
 <p>To work in the field of Astrophysics, Astronomy and Cosmology and become a professional researcher is my ultimate goal. Evolution of Black hole and its host galaxy, Large Scale Structure Formation, Gravitational Lensing, Cooling Flow and Modelling of the Universe are some particular fields where I would like to devote myself in future research.</p>
+<p>Nowadays, Data Driven research has come in the spotlight. In Astronomy, so much data is available which could be processed, fitted and analyzed using some fancy Machine learning technique and other available means. As I have been working with big atomic data to model the photoionized gas, I present myself as a potential candidate to work as a data scientist for the future.</p>
 </div>
 
 
@@ -352,7 +354,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
