@@ -24,7 +24,7 @@ output: html_document
 
 My name is Dev Raj Sadaula. I am a Ph.D. candidate in the department of Physics of Western Michigan University. 
 
-I am working on upgrading the famous photoionization code named XSTAR to include time part in the calculations under Dr. Manuel Bautista. Then we will parallelize the code to make it more efficient
+I am working on upgrading the famous photoionization code named XSTAR to include time part in the calculations under the supervision of Dr. Manuel Bautista. Then we will parallelize the code to make it more efficient
 in terms of time. 
 
 Finally, we will make it publicly available. Once we finish it, we will
