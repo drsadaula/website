@@ -38,3 +38,16 @@ output: html_document
 * I have good knowledge of linear algebra packages, LAPACK, SCALAPACK and ODEPACK.
 
 
+\
+
+### Membership
+
+---
+
+* Member of American Astronomical Society since 2019
+
+* Member of Association of Nepalese Physicist in America since 2018
+
+
+
+

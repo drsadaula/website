@@ -5,11 +5,11 @@ output: html_document
 \
 
 
-### About me
+### Social Activities
 
 ---
 
-Social Activities
+
 
 * Worked as a secretary in Social organization named Ganga Jamuna Utthan Sangh Club.
 
